@@ -25,6 +25,8 @@
 <body>
 
   <div class="header">
+    <?php include 'includes/header.php'; ?>
+</div>
     
   </div>
 
