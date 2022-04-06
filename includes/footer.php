@@ -5,7 +5,7 @@
     }
 ?>
 
-<footer class="navbar-dark bd-dark">
+<footer class="navbar-dark bd-dark fixed-bottom">
     <p>Created by: Anthony Conroy
     <p>CS 485 | Copyright &copy; <?php get_current_year(); ?></p>
-<footer>
+</footer>

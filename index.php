@@ -34,6 +34,7 @@
       <div class="hero-text">
         <h1>The American Restaurant</h1>
         <p>Offical Site</p>
+        <button onclick="makeReservation()">Make a Reservation</button>
       </div>
   </div>
 
@@ -66,9 +67,24 @@ decided to leave for the far World of Grammar.
       <div class="row">
         <div class="col">
           Left text
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+          dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+          mollit anim id est laborum.
+        </br>
         </div>
         <div class="col">
           Right text
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+          incididunt ut labore et dolore magna aliqua. Ornare aenean euismod elementum nisi quis. 
+          Tristique risus nec feugiat in fermentum posuere urna. Commodo viverra maecenas accumsan 
+          lacus vel. Interdum velit euismod in pellentesque massa placerat duis ultricies lacus. 
+          Accumsan sit amet nulla facilisi morbi. Diam donec adipiscing tristique risus nec 
+          feugiat in. At tellus at urna condimentum. Risus commodo viverra maecenas accumsan. 
+          Aenean vel elit scelerisque mauris pellentesque. Pretium quam vulputate dignissim 
+          suspendisse in.
         </div>
       </div>
 
@@ -76,7 +92,7 @@ decided to leave for the far World of Grammar.
 
 
    <div class="footer">
-    
+    <?php include 'includes/footer.php'; ?>
   </div>
 
   <!-- JS -->
